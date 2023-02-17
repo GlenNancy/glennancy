@@ -1,8 +1,8 @@
 <h2>Olá, Eu me chamo Antônio Maurício, mas pode me chamar de Glen 😊</h3>
 <div align="center">
   <a href="https://github.com/glennancy">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=glennancy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glennancy&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=glennancy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glennancy&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
