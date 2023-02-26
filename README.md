@@ -13,7 +13,7 @@
  
 <div align="left">
   <a href=""><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target"_blank"></a>
-  <a herf="youtube.com"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target"_blank"></a>
+  <a herf="https://discord.gg/Fq78ekgRgy"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target"_blank"></a>
   <a href="glennancy024@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/glen_nancy024/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target"_blank"></a>
   <a href="https://codepen.io/GlenNancy"><img src="https://img.shields.io/badge/Codepen-232323?style=for-the-badge&logo=codepen&logoColor=white"></a>
