@@ -17,3 +17,5 @@
   <a href="https://www.linkedin.com/in/ant%C3%B4nio-maur%C3%ADcio-5b5985254/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target"_blank"></a>
 
 </div>
+  
+  ![snake gif](https://github.com/glannany/glennancy/blob/output/github-contribution-grid-snake.svg)
