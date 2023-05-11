@@ -18,4 +18,4 @@
 
 </div>
   
-  ![snake animation](https://github.com/glannany/glennancy/blob/output/github-contribution-grid-snake.svg)  
+  ![snake animation](https://github.com/glannany/glennancy/blob/output/github-contribution-grid-snake.gif)  
