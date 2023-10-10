@@ -1,15 +1,53 @@
-<h2>Olá, Eu me chamo Antônio Maurício, Estudante da etec Horácio Augusto da Silveira (DS)</h3>
+## 💜 Olá, meu nome é <strong>Maurício!</strong>
+
+Estudando na **Etec Horácio Augusto da Silveira**<br/>
+
+Eu sou desenvolvedor **Back-end**.
+
+
+</p>
 <div align="center">
   <a href="https://github.com/glennancy">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=glennancy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=glennancy&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glennancy&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mauricio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mauricio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mauricio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    
+## 🚀 | Linguagens
+<p>Algumas linguagens que possuo conhecimento:</p>
 
-  ##
+<div>
+<img src="https://skillicons.dev/icons?i=html" width=24 height=24 align="left">
+</div>
+<div>
+<img src="https://skillicons.dev/icons?i=css" width=24 height=24 align="left">
+</div>
+<div>
+<img src="https://skillicons.dev/icons?i=js" width=24 height=24 align="left">
+</div>
+<div>
+<img src="https://skillicons.dev/icons?i=ts" width=24 height=24 align="left">
+</div>
+<div>
+<img src="https://skillicons.dev/icons?i=java" width=24 height=24 align="left">
+</div>
+<div>
+<div>
+<img src="https://skillicons.dev/icons?i=cs" width=24 height=24 align="left">
+</div>
+<br>
+<br>
+ 
+## ⭐ | Extras
+<div>
+<img src="https://skillicons.dev/icons?i=react" width=24 height=24 align="left">
+React
+</div>
+<br>
+<div>
+<img src="https://skillicons.dev/icons?i=angular" width=24 height=24 align="left">
+Angular
+</div>
+##
  
 <div align="left">
   <a href="https://www.instagram.com/glen_nancy024/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target"_blank"></a>
